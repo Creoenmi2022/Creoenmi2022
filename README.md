@@ -4,6 +4,9 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Yo estudio programación ágora
+
+Baja 
 
 <!---
 Creoenmi2022/Creoenmi2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
